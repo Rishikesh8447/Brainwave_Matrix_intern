@@ -20,9 +20,9 @@ The Income and Expense Tracker is a lightweight web application built using HTML
 
 *Technologies Used:
 
-HTML5 – Structure of the application
+HTML – Structure of the application
 
-CSS3 – Styling and responsive design
+CSS – Styling and responsive design
 
-JavaScript (ES6) – Core functionality and logic
+JavaScript  – Core functionality and logic
 
