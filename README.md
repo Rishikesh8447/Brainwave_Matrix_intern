@@ -1,5 +1,5 @@
 # Brainwave_Matrix_intern
-Internship Project (Income expense calculator)
+Internship Project (Income expense Tracker)
 
 * Overview
 The Income and Expense Calculator is a lightweight web application built using HTML, CSS, and JavaScript. It enables users to efficiently manage their personal finances by tracking income and expenses in real-time. With an intuitive interface and data persistence, it ensures your records are always up to date — even after refreshing or closing the browser.
